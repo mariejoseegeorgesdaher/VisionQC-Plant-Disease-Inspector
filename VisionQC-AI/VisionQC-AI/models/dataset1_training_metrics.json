@@ -1,0 +1,20 @@
+{
+  "dataset_root": "C:\\Users\\Marie Josee\\Documents\\GitHub\\VisionQC-AI\\data\\raw\\dataset1\\New Plant Diseases Dataset(Augmented)\\New Plant Diseases Dataset(Augmented)",
+  "epochs": 1,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "pretrained": false,
+  "freeze_backbone": false,
+  "max_train_samples": 4000,
+  "max_valid_samples": 1000,
+  "best_val_accuracy": 0.976,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.2776456293240189,
+      "train_accuracy": 0.91075,
+      "val_loss": 0.06170606784429401,
+      "val_accuracy": 0.976
+    }
+  ]
+}

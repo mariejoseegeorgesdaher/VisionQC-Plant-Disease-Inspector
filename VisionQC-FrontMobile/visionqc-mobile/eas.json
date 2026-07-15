@@ -1,0 +1,30 @@
+{
+  "cli": {
+    "version": ">= 18.0.3",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "distribution": "internal",
+      "env": {
+        "EXPO_PUBLIC_API_BASE_URL": "auto",
+        "EXPO_PUBLIC_LOGIN_ENDPOINT": "/api/v1/auth/login",
+        "EXPO_PUBLIC_REGISTER_ENDPOINT": "/api/v1/auth/register",
+        "EXPO_PUBLIC_FORGOT_PASSWORD_ENDPOINT": "/api/v1/auth/forgot-password"
+      },
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "production": {
+      "autoIncrement": true
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}

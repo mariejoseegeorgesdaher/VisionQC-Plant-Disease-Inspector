@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/
+
+# Training outputs and model artifacts
+models/.torch-cache/
+models/*_run_*/
+models/*_smoke_test*/
+models/smoke_test*/
+models/progress_smoke_test/
+models/*_gpu_run_*/
+models/*_watch_status.json
+models/*.pt
