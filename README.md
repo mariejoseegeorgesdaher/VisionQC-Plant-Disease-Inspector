@@ -4,6 +4,11 @@ VisionQC is a full-stack plant quality-control platform for scanning plant image
 
 The project demonstrates practical product engineering across API design, authentication, mobile/web UX, image upload workflows, local ML inference, AI-assisted explanation generation, admin tooling, and PostgreSQL persistence.
 
+## Contributors
+
+- Marie Josee
+- Hadi Haj Ali - [Hadi-2005dev](https://github.com/Hadi-2005dev)
+
 ## Screenshots
 
 Add your final application screenshots here before publishing the repository.
