@@ -9,18 +9,6 @@ VisionQC is a full-stack application for plant disease detection and monitoring.
 - Marie Josee
 - Hadi Haj Ali - [Hadi-2005dev](https://github.com/Hadi-2005dev)
 
-## Screenshots
-
-Add your final application screenshots here before publishing the repository.
-
-| Web Dashboard | Plant Scan | Scan History |
-| --- | --- | --- |
-| `docs/screenshots/web-dashboard.png` | `docs/screenshots/plant-scan.png` | `docs/screenshots/scan-history.png` |
-
-| Mobile Scan | Mobile History | Admin Dashboard |
-| --- | --- | --- |
-| `docs/screenshots/mobile-scan.png` | `docs/screenshots/mobile-history.png` | `docs/screenshots/admin-dashboard.png` |
-
 ## What It Does
 
 - Lets users register, log in, reset passwords, and optionally authenticate with Google.
