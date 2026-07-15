@@ -1,8 +1,8 @@
+This project was developed as our Final Year Project at USJ.
+
 # VisionQC - Plant Disease Inspector
 
-VisionQC is a full-stack plant quality-control platform for scanning plant images, recording diagnosis history, and helping users follow up on possible plant disease issues. The repository is organized as a portfolio-ready monorepo with a .NET backend, React web dashboard, Expo mobile app, and a local Python AI service.
-
-The project demonstrates practical product engineering across API design, authentication, mobile/web UX, image upload workflows, local ML inference, AI-assisted explanation generation, admin tooling, and PostgreSQL persistence.
+VisionQC is a full-stack application for plant disease detection and monitoring. It allows users to scan plant images, view diagnosis history, and receive AI-assisted treatment and prevention recommendations.
 
 ## Contributors
 
